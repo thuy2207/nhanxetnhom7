@@ -29,4 +29,4 @@
 
 - Nâng cao các ví dụ trong mô tả công cụ được sử dụng.  
 
-# 4. Chấm điểm : 8.5/10
+# 4. Chấm điểm : 9/10
